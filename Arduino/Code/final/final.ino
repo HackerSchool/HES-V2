@@ -12,16 +12,16 @@
 #define DEBOUNCE 8 // (ms) half a frame at 60Hz
 
 // Pin configuration
-#define SELECT 7
-#define START 12
-#define UP 18
-#define DOWN 2
-#define LEFT 17
-#define RIGHT 19
-#define A 11
-#define B 6
+#define SELECT 12
+#define START 7
+#define UP 14
+#define DOWN 18
+#define LEFT 16
+#define RIGHT 17
+#define A 19
+#define B 5
 
-#define LED 13
+#define LED 10
 
 // Byte array with the pin configuration
 byte buttons[] = {SELECT, START, UP, DOWN, LEFT, RIGHT, A, B};
