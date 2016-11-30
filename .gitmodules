@@ -1,0 +1,6 @@
+[submodule "Go/hes"]
+	path = Go/hes
+	url = https://github.com/jguer/go-hes
+[submodule "Go/slides"]
+	path = Go/slides
+	url = https://github.com/Jguer/GoGit4Rookies
