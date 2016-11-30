@@ -42,3 +42,6 @@ A linguagem de programação Go é a rising star das novas linguagens de program
 Neste workshop também vais aprender como partilhar o teu trabalho com outros. Aprender a dar acesso e a deixar que os outros contribuam para que o teu comando fique (ainda mais) espantoso! No final saberás usar o Git, uma das mais poderosas ferramentas no arsenal de um hacker e a usar o Github, um serviço de hosting de repositórios para poderes partilhar o teu gamepad com o mundo.
 
 ### Material Disponível
+- Apresentação
+- Programa final
+
