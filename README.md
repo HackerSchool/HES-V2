@@ -2,7 +2,7 @@
 http://hackerschool.io/portfolio/hacker-entertainment-system-2-0/
 
 ### Driver
-[Go-hes](https://github.com/jguer/go-hes)
+[Go-hes](https://github.com/hackerschool/go-hes)
 
 ## Arduino
 
